@@ -1,6 +1,7 @@
 ## location
 
 ~/
+
 [directory]
 zsh_plugins
 
