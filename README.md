@@ -1,16 +1,16 @@
 ## location
 
-~/
-
-[directory]
+~/  
+[directory]  
 zsh_plugins
 
-[file]
-.vimrc
+
+[file]  
+.vimrc  
 .zshrc
 
 
-~/.config/openbox/
 
-[file]
+~/.config/openbox/  
+[file]  
 lxde-rc.xml
